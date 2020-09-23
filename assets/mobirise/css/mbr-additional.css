@@ -794,7 +794,7 @@ blockquote {
 }
 @media (min-width: 992px) {
   .cid-sbi2lvcgde .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 2rem - 1rem);
+    max-height: calc(100vh - 2.6rem - 1rem);
   }
 }
 .cid-sbi2lvcgde .navbar.collapsed .nav-dropdown .dropdown-menu {
@@ -1520,7 +1520,7 @@ blockquote {
   background-color: #ffffff;
 }
 .cid-sbi3lvGoPo .logo__image {
-  width: 60px;
+  width: 46px;
   object-fit: cover;
 }
 .cid-sbi3lvGoPo .brand__text {
